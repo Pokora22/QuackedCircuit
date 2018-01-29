@@ -1,0 +1,11 @@
+draw_set_halign(fa_left);
+draw_set_valign(fa_middle);
+draw_set_font(font_astera_25);
+draw_set_color(c_white);
+var whyThing=(x-150);
+draw_text(whyThing,(y-20),"global game jam\nwaterford");
+draw_text(whyThing,(y+130),"our team:\nprzemyslaw pokorski\njakub Rogqlski\ndavid conway\nconor askins");
+draw_text(whyThing,(y+430),"thanks to:\nour wonderful organisers\nand our fellow jammers.\na special thanks to ArcLabs\nfor allowing us to use their\nfacilities and most of all a\nspeical thanks to you the\nplayer, as without you all\nour hard work would go to\nwaste");
+draw_set_font(font_astera_11);
+draw_set_color(c_orange);
+draw_text(500,700,"press spacebar to return to menu");

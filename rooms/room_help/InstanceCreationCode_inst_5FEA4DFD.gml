@@ -1,0 +1,1 @@
+helpText = "a one way switch block shows which way \nthe charge is going to go at an intersection";

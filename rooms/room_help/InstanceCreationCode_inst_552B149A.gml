@@ -1,0 +1,1 @@
+helpText = "clicking on the switch will allow you to change \nwhich wires following are active and inactive";

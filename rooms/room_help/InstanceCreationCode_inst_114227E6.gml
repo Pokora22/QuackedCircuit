@@ -1,0 +1,1 @@
+helpText = "this is your monitor holding information on your progress \nand amount of fuses(lives) you have left"

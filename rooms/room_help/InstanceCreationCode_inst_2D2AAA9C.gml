@@ -1,0 +1,1 @@
+helpText = "inactive wires denote path the charge will not choose after a switch block.\ncharges forced to follow this path will weaken with time and disappear";

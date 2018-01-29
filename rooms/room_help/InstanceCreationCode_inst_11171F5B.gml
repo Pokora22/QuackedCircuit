@@ -1,0 +1,1 @@
+helpText = "cpu is the heart that drives computer and its your job \nto make sure all the charges get from the cpu to their intended target";

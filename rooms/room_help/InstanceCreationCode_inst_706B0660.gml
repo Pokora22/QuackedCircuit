@@ -1,0 +1,1 @@
+helpText = "active wires denote path the charge will choose to follow at a switch";

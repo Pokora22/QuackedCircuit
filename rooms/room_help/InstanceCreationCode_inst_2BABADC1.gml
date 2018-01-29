@@ -1,0 +1,1 @@
+helpText = "charges are to be guided from the cpu \nto the component with the matching color --";

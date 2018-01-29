@@ -1,0 +1,1 @@
+acceptedCharge = c_fuchsia;
