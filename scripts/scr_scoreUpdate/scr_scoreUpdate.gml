@@ -35,19 +35,14 @@ else if (score + su < 20){
 }
 
 else if (score + su >= 20){
-	audio_stop_sound(music_game);
-	audio_stop_sound(music_theme);
-	audio_play_sound(sfx_win, 15, false);
-	obj_screen.image_index = 2;
+	obj_screen.image_index = 3;
 	instance_destroy(obj_duck);
-		instance_destroy(obj_loadingBar);
+	instance_destroy(obj_loadingBar);
 	obj_cpu.active = false;	
 	
 	with(obj_charge){
 			instance_destroy();
-		}
-		
-		instance_create_layer(room_width-10, room_height - 20, "Instances", obj_return);
+		}			
 }
 
 if(instance_exists(obj_loadingBar)){

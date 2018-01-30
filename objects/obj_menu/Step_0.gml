@@ -30,7 +30,3 @@ else if(mouse_y < 490 && mouse_y > 410 && mouse_x < (room_width/2) + 150 && mous
 else if(mouse_y < 410 && mouse_y > 350 && mouse_x < (room_width/2) + 150 && mouse_x > (room_width/2) - 150){
 	mpos=0;
 }
-
-//if(keyboard_check_released(vk_space)){
-//room_goto(room_menu);
-//}

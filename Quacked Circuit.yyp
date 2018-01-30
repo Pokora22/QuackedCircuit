@@ -687,6 +687,14 @@
             }
         },
         {
+            "Key": "c8214dcc-e956-4f39-876a-9db987889577",
+            "Value": {
+                "id": "379b3cf5-ae23-45e5-beb0-fb85aa18083b",
+                "resourcePath": "objects\\obj_failSpark\\obj_failSpark.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cb1f7099-8def-4329-a372-2e9ed81e10b0",
             "Value": {
                 "id": "0cb1f352-9c4e-4fac-bd24-bb10b1dec5d0",

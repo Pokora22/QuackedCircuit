@@ -1,5 +1,5 @@
-timer = 0;
 switchTimer = 0;
+fadeMod = .98;
 
 path_start(path1, 10, path_action_stop, 1);
 
